@@ -1,0 +1,37 @@
+Q1.What is Python ?
+Ans:-Python is a high-level, general-purpose, and interpreted programming language used in various sectors including machine learning, 
+artificial intelligence, data analysis, web development, and many more. Python is known for its ease of use, powerful standard library,
+and dynamic semantics. It also has a large community of developers who keep on contributing towards its growth. The major focus behind creating it is making it easier for developers to read and understand,
+also reducing the lines of code.
+
+Q2.How many ways to run python program ?
+Ans:-Methods to Run a Script in Python
+There are various methods to Run a Python script,
+we will go through some generally used methods for running a Python script:
+
+Interactive Mode
+Command Line
+Text Editor (VS Code)
+IDE (PyCharm)
+
+Q3.Write most popular editors.
+Ans:- Emacs, Visual Studio Code,Sublime Text,Atom and Vim.
+PyCharm,IDLE,Visual Studio Code,Sublime Text,Spyder,PyDev,Jupyter,Thonny,PyScripter
+
+
+Q4.Difference between high level and low level programming languages.
+Ans:-Both High level language and low level language are the programming languages’s types. 
+The main difference between high level language and low level language is that, Programmers can easily understand or interpret or compile the high level language in comparison of machine. 
+On the other hand, Machine can easily understand the low level language in comparison of human beings. Examples of high level languages are C, C++, Java, Python, etc. 
+Let’s see the difference between high level and low level languages:
+
+1.	It is programmer friendly language.	        	It is a machine friendly language.
+2.	High level language is less memory efficient.		Low level language is high memory efficient.
+3.	It is easy to understand.				It is tough to understand.
+4.	Debugging is easy.					Debugging is complex comparatively.
+5.	It is simple to maintain.				It is complex to maintain comparatively.
+6.	It is portable.						It is non-portable.
+7.	It can run on any platform.				It is machine-dependent.
+8.	It needs compiler or interpreter for translation.	It needs assembler for translation.
+9.	It is used widely for programming.			It is not commonly used now-a-days in programming.
+example:-Peral,Basic,COBOL,Pascal and Ruby.			example:-Machine and assembley languages,C,C++,Fortran

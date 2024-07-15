@@ -1,0 +1,10 @@
+Write a program to print following things for movies dataset
+:
+1)Print 1st 10 rows of those movies which has Genres Comedy and country is USA
+2)Print 1st 10 rows of Title only which budget is less than 6000000 and IMDB score is greater than 7
+3) Print only Directors, Title ,Budget columns in this sequence only
+4)create dataframe of 15 rows of Title, Genres,Language,Duration
+ for Genres could be comedy or drama or both only and Language is English 
+
+
+

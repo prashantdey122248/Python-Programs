@@ -1,0 +1,5 @@
+file1 = open("myfile.txt","r")
+print("Output of Readlines after writing")
+print(file1.readlines())
+print()
+file1.close()
